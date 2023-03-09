@@ -4,7 +4,8 @@
                               A frontend Web developer
                               
                               
-                             # 💫 About Me:
+                              
+💫 About Me:
 🔭 I’m currently working on Reactjs<br>🌱 I’m currently learning Full Stack (Mern) <br>🤔 I’m looking for WEB DEVELOPER ROLE<br>💬 Ask me about Frontend Web dev😄<br>⚡ Fun fact - I am lazy but smart
 
 
